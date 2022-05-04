@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/logistic-project/static/css/main.fe7949ef.css",
-    "main.js": "/logistic-project/static/js/main.32b6a51c.js",
+    "main.css": "/logistic-project/static/css/main.3a7edeb1.css",
+    "main.js": "/logistic-project/static/js/main.7e9caf41.js",
+    "static/media/1.mp4": "/logistic-project/static/media/1.6c248bce288f563dda4e.mp4",
+    "static/media/3.mp4": "/logistic-project/static/media/3.0ab4e1ae68057653d464.mp4",
+    "static/media/2.mp4": "/logistic-project/static/media/2.47f39672269b5373111e.mp4",
     "static/media/about.jpg": "/logistic-project/static/media/about.9e249426f709a85b966a.jpg",
     "static/media/home.jpg": "/logistic-project/static/media/home.5deb78cfa915a9fe7cf1.jpg",
     "static/media/contact.jpg": "/logistic-project/static/media/contact.21e4608f05e420150d3c.jpg",
+    "static/media/3.jpg": "/logistic-project/static/media/3.248e5b353864946e02c8.jpg",
+    "static/media/4.jpg": "/logistic-project/static/media/4.0dd2842de7f1de5de5f3.jpg",
+    "static/media/1.jpg": "/logistic-project/static/media/1.656b809687cefb65dfb2.jpg",
+    "static/media/2.jpg": "/logistic-project/static/media/2.15c068ec6c3e414f6080.jpg",
+    "static/media/6.jpg": "/logistic-project/static/media/6.74e12950e617ca42a8a1.jpg",
+    "static/media/5.jpg": "/logistic-project/static/media/5.3b47aa0615a26ab2bd89.jpg",
     "index.html": "/logistic-project/index.html",
-    "main.fe7949ef.css.map": "/logistic-project/static/css/main.fe7949ef.css.map",
-    "main.32b6a51c.js.map": "/logistic-project/static/js/main.32b6a51c.js.map"
+    "main.3a7edeb1.css.map": "/logistic-project/static/css/main.3a7edeb1.css.map",
+    "main.7e9caf41.js.map": "/logistic-project/static/js/main.7e9caf41.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe7949ef.css",
-    "static/js/main.32b6a51c.js"
+    "static/css/main.3a7edeb1.css",
+    "static/js/main.7e9caf41.js"
   ]
 }
